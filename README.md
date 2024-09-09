@@ -1,2 +1,2 @@
-# StudentGradeCalculator
-CodSoft Java Programming Tasks
+# Student-Grade-Calculator
+Java Programming
